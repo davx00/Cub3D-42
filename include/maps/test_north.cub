@@ -1,0 +1,13 @@
+NO include/textures/xpm/abadie/abadie_N.xpm
+SO include/textures/xpm/abadie/abadie_S.xpm
+EA include/textures/xpm/abadie/abadie_E.xpm
+WE include/textures/xpm/abadie/abadie_W.xpm
+
+F 220,100,0
+C 225,30,0
+
+1111111111
+1000000001
+1000N00001
+1000000001
+1111111111
